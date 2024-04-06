@@ -1,0 +1,4 @@
+Yenilik yapıldı.
+Genel fix atıldı
+Bunlarda yapıldı.
+Donate araç eklendi.
